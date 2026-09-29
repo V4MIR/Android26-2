@@ -1,4 +1,35 @@
 <resources>
-    <string name="app_name">DroidPractice1</string>
+    <string name="app_name">Статья</string>
     <string name="article_title">Статья</string>
+    <string name="share_article">Поделиться статьёй</string>
+    <string name="read_label">Прочитано</string>
+
+    <!--Rammstein-->
+    <string name="article1_title">Rammstein</string>
+    <string name="article1_image_desc">Логотип группы Rammstein</string>
+    <string name="article1_rubric">ИНДАСТРИАЛ-МЕТАЛ · БЕРЛИН · С 1994</string>
+    <string name="article1_lead">Немецкая индастриал-метал группа, основанная в 1994 году в Берлине и ставшая одной из самых скандальных и влиятельных команд в истории тяжёлой музыки.</string>
+    <string name="article1_section">ОГОНЬ И РИТМ</string>
+    <string name="article1_quote_author">— Тиль Линдеманн</string>
+
+    <string name="article1_body_1">Тиль Линдеманн, фронтмен с огненным голосом и не менее огненными шоу, превратил Rammstein в эталон сценического перформанса. Пиротехника, провокационные тексты, жёсткие риффы и холодная берлинская эстетика — всё это сделало группу узнаваемой с первых секунд.</string>
+    <string name="article1_body_2">Шесть музыкантов, шесть характеров, но одна машина — Rammstein. Их альбомы Mutter, Reise, Reise и Liebe ist für alle da разошлись миллионными тиражами, а клипы стали отдельным видом искусства.</string>
+    <string name="article1_body_3">Группа поёт исключительно на немецком, но её понимают во всём мире — потому что язык огня и ритма универсален. Rammstein не боится тем смерти, любви, власти и насилия, заставляя слушателя смотреть в самые тёмные углы человеческой природы.</string>
+    <string name="article1_quote">«Wir halten zusammen, wir halten zusammen, wir halten zusammen»</string>
+    <string name="article1_quote_translation">«Мы держимся вместе»</string>
+
+    <!--Scorpions-->
+    <string name="article2_title">Scorpions</string>
+    <string name="article2_image_desc">Логотип группы Scorpions</string>
+    <string name="article2_subtitle">Группа, которая доказала, что рок-баллады могут звучать мощно и искренне.</string>
+
+    <string name="article2_text">Scorpions — немецкая рок-группа, основанная в 1965 году в Ганновере гитаристом Рудольфом Шенкером. За более чем полвека истории коллектив прошёл путь от хард-рока 70-х до мировых стадионов, став одной из самых успешных немецких групп в истории. Их фирменный звук — сочетание тяжёлых гитарных риффов и проникновенных баллад. Клаус Майне с его узнаваемым голосом остаётся бессменным фронтменом уже несколько десятилетий.</string>
+    <string name="article2_hits_title">Главные хиты</string>
+    <string name="article2_hits">Wind of Change · Still Loving You · Rock You Like a Hurricane · Send Me an Angel</string>
+    <string name="article2_link_text">Scorpions — это не просто группа, это символ эпохи. Их музыка объединила поколения и континенты. За время существования состав менялся, но неизменным оставалось одно — преданность рок-музыке. Группа выступала в десятках стран, собирая полные стадионы, и продолжает гастролировать даже спустя более 50 лет после основания.</string>
+    <string name="article2_text_end">В 2015 году Scorpions выпустили альбом Return to Forever, который показал, что группа всё ещё способна удивлять. А в 2022 году вышел Rock Believer — мощное возвращение к корням хард-рока. Scorpions остаются одной из немногих групп, которые прошли через все эпохи рока и не потеряли своего лица.</string>
+
+    <string name="second_article_not_read">Вторая статья ещё не прочитана. Прочитайте её, чтобы разблокировать дополнительный контент</string>
+    <string name="second_article_read">Вторая статья прочитана. Scorpions за более чем полувековую карьеру выпустили 19 студийных альбомов, продали более 100 миллионов пластинок и стали первой немецкой группой, покорившей мировые чарты. Их песня Wind of Change стала символом падения Берлинской стены и перемен в Восточной Европе.</string>
+    <string name="go_to_second_article">Читать вторую статью</string>
 </resources>
